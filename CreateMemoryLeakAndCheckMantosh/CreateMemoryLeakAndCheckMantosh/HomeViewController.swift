@@ -17,6 +17,7 @@ class HomeViewController: UIViewController {
         
     var servic = Servic()
     
+    // MARK: view life cycle
     override func viewDidLoad() {
         super.viewDidLoad()
         infoLabel1?.text = "this is second view "
