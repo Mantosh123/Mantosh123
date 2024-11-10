@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mantosh Kumar
 - 👀 I’m interested in IOS Development
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning SwiftUI, IOT
+- 💞️ I’m looking to collaborate on Tech
+- 📫 mantosh83.kumar@gmail.com
+
 
 <!---
 Mantosh123/Mantosh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
