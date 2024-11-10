@@ -1,3 +1,5 @@
+![github-header-image (6)](https://github.com/user-attachments/assets/7a5db4e4-1077-4b40-af45-956a427666c3)
+
 <h1 align="center">Hi 👋, I'm Mantosh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -15,7 +17,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mantosh-kumar-4a84347a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantosh-kumar-4a84347a" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mantoshkumar-gs2po/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mantoshkumar-gs2po/videos" height="30" width="40" /></a>
 </p>
+
+https://www.youtube.com/@Mantoshkumar-gs2po/videos
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantosh123&show_icons=true&locale=en&layout=compact" alt="mantosh123" /></p>
 
