@@ -20,9 +20,7 @@
 <a href="https://www.youtube.com/@mantoshkumar-gs2po/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mantoshkumar-gs2po/videos" height="30" width="40" /></a>
 </p>
 
-https://www.youtube.com/@Mantoshkumar-gs2po/videos
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantosh123&show_icons=true&locale=en&layout=compact" alt="mantosh123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mantosh123&show_icons=true&locale=en&layout=compact" alt="mantosh123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mantosh123&show_icons=true&locale=en" alt="mantosh123" /></p>
 
