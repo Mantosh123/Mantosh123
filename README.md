@@ -1,6 +1,5 @@
 ![github-header-image (6)](https://github.com/user-attachments/assets/7a5db4e4-1077-4b40-af45-956a427666c3)
 
-<h1 align="center">Hi 👋, I'm Mantosh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" />
