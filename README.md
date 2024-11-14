@@ -1,4 +1,4 @@
-![github-header-image (6)](https://github.com/user-attachments/assets/7a5db4e4-1077-4b40-af45-956a427666c3)
+![github-header-image](https://github.com/user-attachments/assets/79f9372f-4967-4952-b3a0-9546924c3c84)
 
 <h3 align="center">A passionate IOS developer from India</h3>
 
