@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantosh123&label=Profile%20views&color=0e75b6&style=flat" alt="mantosh123" /> </p>
 
-- 🌱 I’m currently learning **SwiftUI, Fluter**
+- 🌱 I’m currently learning **SwiftUI, Flutter**
 
-- 💬 Ask me about **IOS, SwiftUI**
+- 💬 Ask me about **IOS and Related technology**
 
 - 📫 How to reach me **mantosh83.kumar@gmail.com**
 
